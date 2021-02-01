@@ -2,7 +2,7 @@
 
 const SECTIONS_DATA = [
     {
-        title: 'hats',
+        title: 'HATS',
         // imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
         imageUrl: 'images/hats.png', // local file in public/images/
         id: 1,
@@ -10,21 +10,21 @@ const SECTIONS_DATA = [
 
     },
     {
-        title: 'jackets',
+        title: 'JACKETS',
         // imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
         imageUrl: 'images/jackets.png', // local file in public/images/
         id: 2,
         linkUrl: 'shop/jackets'
     },
     {
-        title: 'sneakers',
+        title: 'SNEAKERS',
         // imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
         imageUrl: 'images/sneakers.png', // local file in public/images/
         id: 3,
         linkUrl: 'shop/sneakers'
     },
     {
-        title: 'womens',
+        title: 'WOMEN',
         // imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
         imageUrl: 'images/womens.png', // local file in public/images/
         size: 'large',
@@ -32,7 +32,7 @@ const SECTIONS_DATA = [
         linkUrl: 'shop/womens'
     },
     {
-        title: 'mens',
+        title: 'MEN',
         // imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
         imageUrl: 'images/men.png', // local file in public/images/
         size: 'large',
